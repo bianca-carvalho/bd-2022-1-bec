@@ -1,1 +1,1 @@
-![db-campeonato-futebol](campeonato-futebol.jpeg)
+<img src="campeonato-futebol.jpeg" alt="db-campeonato-futebol" style="width: 70%"/>
