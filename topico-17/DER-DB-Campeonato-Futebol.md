@@ -1,1 +1,1 @@
-<img src="campeonato-futebol.jpeg" alt="db-campeonato-futebol" style="width: 70%"/>
+<img src="campeonato-futebol.jpeg" alt="db-campeonato-futebol" height="500"/>
